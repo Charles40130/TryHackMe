@@ -1,0 +1,2 @@
+- intuitive web-based application designed to help with various "cyber" operations tasks within your web browser
+- 2 accesing methods : Online Acces (https://gchq.github.io/CyberChef/) or Offline( Local Copy) (https://github.com/gchq/CyberChef/releases)
